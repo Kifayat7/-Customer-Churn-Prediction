@@ -1,0 +1,23 @@
+Customer Churn Model Metrics (hold-out test set)
+==================================================
+
+Logistic Regression  <-- selected
+  accuracy  : 0.7374
+  precision : 0.5034
+  recall    : 0.7807
+  f1        : 0.6122
+  roc_auc   : 0.8455
+
+Random Forest
+  accuracy  : 0.7651
+  precision : 0.5419
+  recall    : 0.7433
+  f1        : 0.6268
+  roc_auc   : 0.8360
+
+Gradient Boosting
+  accuracy  : 0.8013
+  precision : 0.6621
+  recall    : 0.5134
+  f1        : 0.5783
+  roc_auc   : 0.8425
